@@ -60,17 +60,7 @@ const About: React.FC = () => (
                   A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
                 </h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                  UO, dünyanın en iyi gerçek zamanlı geliştirme platformundan çok daha fazlasıdır - aynı zamanda başarınızı sağlamak için tasarlanmış sağlam bir ekosistemdir. Vizyonunuza ulaşmak için ihtiyacınız olan şeylerden yararlanabilmeniz için dinamik içerik oluşturucu topluluğumuza katılın.
                 </p>
                 <p>
                   Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
