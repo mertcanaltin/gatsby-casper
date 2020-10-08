@@ -149,7 +149,7 @@ export const pageQuery = graphql`
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
-        fixed {
+        fixed(width: 239)  {
           ...GatsbyImageSharpFixed
         }
       }
