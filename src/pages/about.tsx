@@ -51,38 +51,23 @@ const About: React.FC = () => (
         <div css={inner}>
           <article className="post page" css={[PostFull, NoImage]}>
             <PostFullHeader className="post-full-header">
-              <PostFullTitle className="post-full-title">About</PostFullTitle>
+              <PostFullTitle className="post-full-title">Hakkımızda</PostFullTitle>
             </PostFullHeader>
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+                  Github'da bize bakın! <br /> GitHub: <a href="https://github.com/undefinedobjects/">uo-github</a>
                 </h5>
+                <h2>Birlikte, dünya çapında gerçek zamanlı yaratıcılığı güçlendiriyoruz</h2>
                 <p>
                   UO, dünyanın en iyi gerçek zamanlı geliştirme platformundan çok daha fazlasıdır - aynı zamanda başarınızı sağlamak için tasarlanmış sağlam bir ekosistemdir. Vizyonunuza ulaşmak için ihtiyacınız olan şeylerden yararlanabilmeniz için dinamik içerik oluşturucu topluluğumuza katılın.
                 </p>
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
+                  
                 </p>
                 <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
+                 
                 </p>
               </div>
             </PostFullContent>
