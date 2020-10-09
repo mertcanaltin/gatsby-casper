@@ -5,6 +5,10 @@
   facebook: undefinedobjects
   website: https://undefinedobjects.gtsb.io/
   location: Turkey
-
-- mert:
-  id: mertcanaltin
+- id: mertcanaltin
+  avatar: avatars/ghost.png
+  bio: Kurucu
+  twitter: undefinedobjects
+  facebook: undefinedobjects
+  website: https://undefinedobjects.gtsb.io/
+  location: Turkey
