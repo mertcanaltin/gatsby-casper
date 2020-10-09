@@ -11,5 +11,5 @@ excerpt: Bugün iş akışlarını örnek aldığım oyun firması olan masomo'y
 ## __masomo ne tür oyunlar üretiyor?__
 masomo şuan 2d oyunlar üretiyor bu oyunlardan birisi popüler olan kafa topu oyunu 
 
-### Oyun motorları ne?
+### Oyun motorları ne ?
 cocos2d oyun motorunu kullanıyorlar bu oyun motoru tıpkı unity gibi bir creatör e sahip 
