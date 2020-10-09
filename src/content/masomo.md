@@ -1,12 +1,10 @@
 ---
 layout: post
 title: masomo Nasıl Yazılım üretir ?
-image: img/masomo.jpg
+image: img/testimg-cover.jpg
 author: [undefinedobjects]
 date: 2019-10-02
-tags:
-  - Source
-excerpt: bugün iş akışlarını örnek aldığım oyun firması olan masomo'yu anlatıcam 
+tags: []
 ---
 
 ## __masomo ne tür oyunlar üretiyor?__
