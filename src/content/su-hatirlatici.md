@@ -3,7 +3,7 @@ layout: post
 title: Su İçme Hatırlatıcısı
 image: img/testimg-cover.jpg
 author: [undefinedobjects]
-date: 2020-09-30T07:03:47.149Z
+date: '2020-09-30T07:03:47.149Z'
 tags: []
 ---
 
