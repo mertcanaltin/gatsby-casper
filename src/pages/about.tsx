@@ -56,9 +56,6 @@ const About: React.FC = () => (
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
-                <h5>
-                  Github'da bize bakın! <br /> GitHub: <a href="https://github.com/undefinedobjects/">uo-github</a>
-                </h5>
                 <h2>Birlikte, dünya çapında gerçek zamanlı yaratıcılığı güçlendiriyoruz</h2>
                 <p>
                   UO, dünyanın en iyi gerçek zamanlı geliştirme platformundan çok daha fazlasıdır - aynı zamanda başarınızı sağlamak için tasarlanmış sağlam bir ekosistemdir. Vizyonunuza ulaşmak için ihtiyacınız olan şeylerden yararlanabilmeniz için dinamik içerik oluşturucu topluluğumuza katılın.
@@ -69,6 +66,9 @@ const About: React.FC = () => (
                 <p>
                  
                 </p>
+                <h5>
+                  Github'da bize bakın! <a href="https://github.com/undefinedobjects/">uo.github</a>
+                </h5>
               </div>
             </PostFullContent>
           </article>
