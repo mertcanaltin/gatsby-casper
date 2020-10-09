@@ -47,10 +47,9 @@ export class SubscribeModal extends React.Component<any, SubscribeState> {
         <SubscribeOverlayClose onClick={this.close} />
         <SubscribeOverlayContent>
           <SubscribeLogo />
-          <SubscribeOverlayTitle>Subscribe to {config.title}</SubscribeOverlayTitle>
+          <SubscribeOverlayTitle>{config.title}'e Abone Olun</SubscribeOverlayTitle>
           <SubscribeOverlayDescription>
-            Stay up to date! Get all the latest &amp; greatest posts delivered straight to your
-            inbox
+          Gerçek zamanlı geliştirme platformundan geri kalmayın
           </SubscribeOverlayDescription>
           <SubscribeForm />
         </SubscribeOverlayContent>
