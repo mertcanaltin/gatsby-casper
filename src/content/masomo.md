@@ -2,7 +2,7 @@
 layout: post
 title: masomo Nasıl Yazılım üretir ?
 image: img/masomo.jpg
-author: [mertcanaltin]
+author: [undefinedobjects]
 date: 2019-10-02
 tags:
   - Source
