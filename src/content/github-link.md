@@ -4,7 +4,7 @@ title: Github Sayfamız
 image: img/callum-shaw-555357-unsplash.jpg
 author: [undefinedobjects]
 date: '2020-03-10T10:00:00.000Z'
-tags: []
+tags: ['blog']
 excerpt: Github üzerinden projelerimizi inceleyin
 ---
 
