@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Masomo Nasıl Yazılım Üretir?
-image: img/testimg1.jpg
+image: img/masomo.jpg
 author: [mertcanaltin]
 date: '2020-05-10T10:00:00.000Z'
 tags: ['blog']
